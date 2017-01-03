@@ -18,7 +18,7 @@ Guía de estilo de desarrollo en Platform Convergence
     domainAttributes.each { it ->
       println it.id
     }
-    ```
+```
 
 ## Line max length
 
