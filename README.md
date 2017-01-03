@@ -40,6 +40,7 @@ Guía de estilo de desarrollo en Platform Convergence
 - Define the method without a type, just with the 'def' definition
 
 ```java
+ class MathExample {
     // bad
     Integer sum(a,b) {
       int c = a+b
@@ -53,4 +54,5 @@ Guía de estilo de desarrollo en Platform Convergence
       println(c)
       return c
     }
+ }
 ```
