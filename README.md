@@ -21,7 +21,7 @@ Guía de estilo de desarrollo en Platform Convergence
 ```
 
 ## Conditional Statements (if / else)
-- For small conditional statements we try to compact them in one line if the statement dont pass the line maximun lenght of 120 characters
+- For small conditional statements we try to compact them in one line if the statement dont surpass the maximun line lenght of 120 characters
 
 ```java
     // bad
