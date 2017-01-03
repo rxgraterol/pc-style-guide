@@ -1,4 +1,4 @@
-# pc-style-guide
+# Platform Convergence Style Guide
 Guía de estilo de desarrollo en Platform Convergence
 
 ## Indent
