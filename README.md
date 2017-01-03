@@ -20,6 +20,19 @@ Guía de estilo de desarrollo en Platform Convergence
     }
 ```
 
+## Conditional Statements (if / else)
+- For small conditional statements we try to compact them in one line if the statement dont pass the line maximun lenght of 120 characters
+
+```java
+    // bad
+    if(weKickAsses) {
+        awesomeMethod()
+    }
+    // good
+    if(weKickAsses) awesomeMethod()
+```
+
+
 ## Line max length
 
  - The limit for each line of code is set at 120 characters. It will produce an error if the limit is surpassed.
